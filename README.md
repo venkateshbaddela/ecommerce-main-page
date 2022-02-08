@@ -30,8 +30,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/venkateshbaddela/ecommerce-main-page]
+- Live Site URL: [https://venkateshbaddela.github.io/ecommerce-main-page/]
 
 ### Built with
 
